@@ -1,4 +1,4 @@
 baseURL = "https://leaning.blue/"
 languageCode = "en-us"
 title = "Leaning Blue"
-theme = "liva-hugo'
+theme = "liva-hugo"
